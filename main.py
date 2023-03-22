@@ -70,7 +70,8 @@ class GestionStockApp(tk.Tk):
     def __init__(self):
         super().__init__()
         self.title("Gestion de stock")
-        self.geometry("800x600")
+        self.geometry("900x500")
+        self.resizable(False, False)
         self.creer_widgets()
 
     def creer_widgets(self):
