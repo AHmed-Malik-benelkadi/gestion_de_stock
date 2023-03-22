@@ -1,0 +1,12 @@
+ID,Nom,Description,Prix,Quantité,ID Catégorie
+1,Bananes,Bananes fraîches,2.00,50,1
+2,Pommes,Pommes rouges,3.00,100,1
+3,Tomates,Tomates fraîches,1.00,75,2
+4,Carottes,Carottes biologiques,2.00,40,2
+5,Steak,Steak de boeuf,12.00,20,3
+6,Poulet,Poulet fermier,8.00,30,3
+7,Saumon,Saumon fumé,15.00,15,4
+8,Crevettes,Crevettes fraîches,10.00,25,4
+9,Ordinateur portable,Ordinateur portable Dell,1000.00,10,4
+16,Ordinateur portable,Ordinateur portable Dell,1000.00,10,1
+18,Ordinateur portable,Ordinateur portable Dell,1000.00,10,1
